@@ -1,4 +1,4 @@
-## Oláa, eu sou o Yan Victor, atualmente estudo Ciências Da Computação e sou apaixonado por tecnologia.. 😍🖥 
+## Oláa, eu sou o Yan Victor, atualmente estudo Ciências Da Computação! 💻 
 
 - 💻 Atuamente estudo Python e Inglês
 - 🚀 Quero ser um Desenvolvedor Back-and!
