@@ -26,7 +26,6 @@ Sou um entusiasta da tecnologia e tenho um sonho de um dia compartinhar meus con
 ---
 
 ### 🤖 Linguagens e Tecnologias:
-<br/>
 <img 
     align="left" 
     alt="HTML"
