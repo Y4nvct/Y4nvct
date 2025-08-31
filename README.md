@@ -24,6 +24,11 @@ Sou um entusiasta da tecnologia e tenho um sonho de um dia compartinhar meus con
 </p>
 
 ---
+### 👨🏼 Minhas Características:
+- Comunicação / trabalho em equipe.
+- Proatividade / vontade de aprender
+- Organização
+---
 
 ### 🤖 Linguagens e Tecnologias:
 <img 
