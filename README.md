@@ -68,8 +68,4 @@ Sou um entusiasta da tecnologia e tenho um sonho de um dia compartinhar meus con
 <br/>
 
 ---
-
-username=y4nvct&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
